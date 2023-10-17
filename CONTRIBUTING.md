@@ -1,6 +1,6 @@
 # Satoshial Contributing guidelines
 
-Welcome to Satoshial. Please make sure you have read the entire guideline before sending in your pull requests. If you have any doubts about the contributing guide, please don't hesitate to make it known in an issue.
+Welcome to Satoshialll. Please make sure you have read the entire guideline before sending in your pull requests. If you have any doubts about the contributing guide, please don't hesitate to make it known in an issue.
 
 ### Contributing and 
 ### Contributor
